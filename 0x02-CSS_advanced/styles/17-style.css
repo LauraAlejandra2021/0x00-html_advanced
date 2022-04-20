@@ -68,6 +68,7 @@ a:active {
 
   .section-footer {
       padding: var(--footer-padding);
+      text-aling: var(--section-footer-align);
   }
 
   .section-title {
