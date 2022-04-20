@@ -30,11 +30,12 @@ h1, h2, h3, h4, h5, h6 {
   }
   .section-header{
       text-align: var(--section-header-align);
+      
   }
   .section-tagline {
       color: var(--color-primary);
       font-family: var(--font-family-title);
-      text: var(--section-tagline-transform);
+      text-transform: var(--section-tagline-transform);
       font-weight: var(--font-weight-bold);
   }
 
