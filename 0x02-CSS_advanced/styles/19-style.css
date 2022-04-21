@@ -110,6 +110,10 @@ a:active {
       color: var(--text-color);
   }
 
+  ul.footer {
+      text-align: right;
+  }
+
   .container {
       width: 960px;
       margin-left: auto;
