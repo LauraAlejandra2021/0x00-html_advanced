@@ -106,10 +106,11 @@ a:active {
         width: 50%;
     }
     
-    .col-1-2.col-1-3 {
+    .col {
         float: left;
         padding: 0.5rem !important;
     }
+
   .footer-copyright {
       margin: 0;
       font-size: var(--font-size-small);
