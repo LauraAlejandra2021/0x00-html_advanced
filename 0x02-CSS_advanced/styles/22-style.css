@@ -156,6 +156,12 @@ a:active {
       color: var(--nav-item-link-hover);
   }
 
+  [data-section-theme="dark"] {
+    --title-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background: var(--color-black);
+  }
+
   :root {
       --color-primary: #d73953;
       --color-black: #090909;
@@ -195,7 +201,3 @@ a:active {
       --section-tagline-margin:0;
   }
 
-[data-section-theme="dark"] {
-    --title-color: var(--color-white);
-    --section-title-color: var(--color-white);
-  }
