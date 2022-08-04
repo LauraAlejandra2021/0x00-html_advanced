@@ -194,9 +194,9 @@ a:active {
       --nav-item-link-hover:var(--color-primary);
       --section-tagline-margin:0;
   }
-  
+
   [data-theme='dark'] {
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white);
+    --text-color: (--color-white);
+    --section-title-color: (--color-white);
     background: var(--color-black);
   }
