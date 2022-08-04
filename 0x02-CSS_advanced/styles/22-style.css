@@ -195,7 +195,7 @@ a:active {
       --section-tagline-margin:0;
   }
 
-  [data-section-theme="dark"] {
+ header [data-section-theme="dark"] {
     --title-color: var(--color-white);
     --section-title-color: var(--color-white);
     background: var(--color-black);
