@@ -198,6 +198,5 @@ a:active {
   [data-section-theme='dark'] {
     --title-color: var(--color-white);
     --section-title-color: var(--color-white);
-    background: var(--color-black);
+    --background: var(--color-black);
   }
-  
